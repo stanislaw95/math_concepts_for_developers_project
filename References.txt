@@ -1,0 +1,22 @@
+1. 	Dimitrov I, Zaharieva N, Doytchinova I. 
+	Bacterial Immunogenicity Prediction by Machine Learning Methods. Vaccines (Basel). 
+	2020 Nov 30;8(4):709. doi: 10.3390/vaccines8040709. PMID: 33265930; PMCID: PMC7711804.
+
+2.	DNA and peptide sequences and chemical processes multivariately modelled by principal component analysis and 
+	partial least-squares projections to latent structures. 
+	(2001, October 24). 
+	https://doi.org/10.1016/0003-2670(93)80437-P
+
+3.	https://www.iedb.org/
+
+4.	Venkatarajan, M. S., & Braun, W. (2001, December 8). 
+	New quantitative descriptors of amino acids based on multidimensional scaling of a large number of physical–chemical properties
+	- Journal of Molecular Modeling. SpringerLink. 
+	https://doi.org/10.1007/s00894-001-0058-5
+
+5.	Hellberg S, Sjöström M, Skagerberg B, Wold S. 
+	Peptide quantitative structure-activity relationships, a multivariate approach. 
+	J Med Chem. 1987 Jul;30(7):1126-35. doi: 10.1021/jm00390a003. 
+	PMID: 3599020.
+
+6.	https://www.iomcworld.org/medical-journals/protein-biochemistry-39918.html
